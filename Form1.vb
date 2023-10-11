@@ -90,7 +90,7 @@
                 Me.rptStatement.ShowScanLine = False
                 Me.rptStatement.ShowPageHeader = Me.chkPageHeader.Checked
                 Me.rptStatement.ShowSubtotalbyContract = False   ''lg 6661 Add option to Sub-total by Contract in Maintenance Dues Statements
-                rptStatement.ResortID = "R1"
+                
                 Me.rptStatement.ShowUnit = False
                 Me.rptStatement.ShowWeek = False
                 Me.rptStatement.INSStatementComments = ""
